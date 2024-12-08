@@ -1,0 +1,9 @@
+[
+    {
+        "firstname":"User",
+        "lastname":"Nutech",
+        "email": "user@nutech-integrasi.com",
+        "password":"abcdef1234",
+        "profile_image":"https://yoururlapi.com/profile.jpeg"
+    }
+]
